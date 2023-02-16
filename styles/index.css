@@ -1,0 +1,7 @@
+.hov-elem{
+    opacity: 0;
+    transition: all 500ms ease;
+}
+.hov-box:hover .hov-elem{
+    opacity: 1;
+}
